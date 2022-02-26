@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  padding: 1vh;
+}
+
+.search {
+  text-align: center;
+  margin-left: 2.5%;
+  padding-bottom: 2vh;
+  width: 500px;
+}
+
+.data-table {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 0.7vw;
+  width: 95%
+}
+
+.output {
+  text-align: left;
+  margin-top: 1vh;
+  word-break: break-all;
+}
+
+.charts {
+  width: 100%;
+}

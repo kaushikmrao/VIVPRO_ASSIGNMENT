@@ -1,0 +1,7 @@
+*.DS_Store
+numpy
+pandas
+venv
+config.py
+config.pyc
+__pycache__
